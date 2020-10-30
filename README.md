@@ -18,7 +18,7 @@ In python, a bunch of builtin higher-order methods (which means that they accept
 They enable streamed data processing on containers that focus on the processing itself,
 in contrast with *noisy code* on traditional command-based languages that is heavily involved in loops.
 
-However, you may occasionally run into the situatiion where you find that there is no standard library functions to implement in-line unpacking of tuples,
+However, you may occasionally run into the situation where you find that there is no standard library functions to implement in-line unpacking of tuples,
 adding all numbers in a list by a constant shift, so you will have to write:
 ```python
 map(lambda x: x + 1, some_list)
