@@ -1,11 +1,13 @@
-# __ (Double Underscores)
+# __ (Double Underscores, 2us)
+[![PyPI version](https://badge.fury.io/py/2us.svg)](https://badge.fury.io/py/2us)
+
 Glueing functionals by `import __` for python!
 
 ## Install
 The package is written in pure python, with no dependencies other than the Python language. Just do:
 
 ```sh
-pip install __
+pip install 2us
 ```
 
 Requires Python 3.5 or higher.
